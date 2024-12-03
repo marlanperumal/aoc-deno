@@ -14,7 +14,7 @@ deno run --allow-read day1a.ts
 The project is designed to integrate with VSCode to run, debug and test. A template folder `day0` contains template files that can be copied to a new day `X` with the command
 
 ```bash
-    deno task newday --year=2024 --day=1
+deno task newday --day=X
 ```
 
 or else by running the `newday` task in VSCode.
