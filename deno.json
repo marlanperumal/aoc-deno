@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "newday": "deno run --allow-read --allow-write main.ts"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1",
+    "@std/path": "jsr:@std/path@^1.0.8"
+  }
+}
