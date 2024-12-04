@@ -2,7 +2,7 @@
 
 Solutions to [Advent of Code](https://adventofcode.com/)
 
-This repo is organised by year and day inot folders of the form `2024/day1`. Each folder container separate Typescript files for the 2 parts of the puzzle e.g. `day1a.ts` and `day1b.ts`. Additionally, the test files are stored as `day1_input.txt` and `day1_input_small.txt`. However, in keeping with the instructions in the AoC FAQs, the actual input files have not been committed to the repo.
+This repo is organised by year and day into folders of the form `2024/day1`. Each folder container separate Typescript files for the 2 parts of the puzzle e.g. `day1a.ts` and `day1b.ts`. Additionally, the test files are stored as `day1_input.txt` and `day1_input_small.txt`. However, in keeping with the instructions in the AoC FAQs, the actual input files have not been committed to the repo.
 
 Individual files can be run at the command line from inside their folder locations with
 

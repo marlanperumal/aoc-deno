@@ -1,1 +1,4 @@
 *.txt
+!2024/day0/*.txt
+*.md
+!README.md
